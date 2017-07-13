@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Appchuu</string>
+    <string name="main_button">Appchuu</string>
+    <string name="blessing_1">God Bless You</string>
+    <string name="blessing_2">gesundheit</string>
+    <string name="banner_primary"> ca-app-pub-3940256099942544/6300978111</string>
+    <string name="salutation_choice">Non Kosher/ Kosher</string>
+</resources>
